@@ -19,7 +19,6 @@ import Bus from 'lg-bus'
 # 使用
 
 ```JavaScript
-
 // 1. 添加事件
 Bus.$on(事件名称, 事件处理函数);
 // 2. 触发事件
